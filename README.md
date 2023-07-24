@@ -1,7 +1,10 @@
 # AutoStudy
 
 ## Download
-https://github.com/Hanleon/AutoStudy/releases/tag/V1.0.0
+https://github.com/Hanleon/AutoStudy/releases/tag/V1.0.0  
+百度网盘  
+链接：https://pan.baidu.com/s/1FIU-gbJwaSDLVJ_3n2nFog 
+提取码：silu 
 
 ## Info
 __此软件为半自动化学习软件，学习过程的验证码还需手动输入，
