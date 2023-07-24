@@ -17,8 +17,8 @@ __Sep2. 打开程序__
 __Sep3. 登录__  
 ![image](https://github.com/Hanleon/AutoStudy/blob/main/5.png)  
 
-__Sep4. 关键步骤
-点开学习后按下上方“+”号键，如果加错可以选中错误地址后点击“-”进行删除
+__Sep4. 关键步骤  
+点开学习后按下上方“+”号键，如果加错可以选中错误地址后点击“-”进行删除  
 当所有页面都添加完，可以点击“开始学习”进行半自动浏览__  
 ![image](https://github.com/Hanleon/AutoStudy/blob/main/6.png)  
 ![image](https://github.com/Hanleon/AutoStudy/blob/main/7.png)  
